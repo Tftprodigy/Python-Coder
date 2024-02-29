@@ -1,0 +1,10 @@
+variable is a storage location for data and 
+it can be called back by referencng the variable name.
+
+Datatypes
+String = alphabet characters or plain texts
+stored in a variable or not in some cases.
+integer = numbers
+boolean =true or false values
+
+features OF STRING 
