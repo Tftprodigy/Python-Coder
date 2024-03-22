@@ -1,0 +1,26 @@
+string are plain text;
+
+features of string
+\n = used to input new line
+b. it can be printed as a variable
+c. \" = sude to add double quote in a string
+
+string functions
+1. upper() = changes a string to capital letter.
+
+2. lower() = changes a string to capital letter.
+
+3. islower() = checks if a string to lower letter(s).
+
+//multiple string function can be joined together
+
+        print (name.upper().isupper())
+//both isupper and islower are boolean type function
+//that return true or false.
+
+4. len() = to check the lenght or characters in a variable
+        work = "Developer"
+        print (work)
+        print(len(work))
+
+5. index() = to find the location of a character in a string
