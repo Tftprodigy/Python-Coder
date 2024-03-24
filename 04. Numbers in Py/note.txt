@@ -1,1 +1,23 @@
 1. % = remainder of a division
+2. abs() = a number funtion that give the absolute value of 
+        number regardless of the sign it carries.
+        
+            print(abs(-5))
+
+
+3. max() = a number function that gives the greater number
+value amongst a set of number
+
+    print (max(12, 13, 21))
+
+4. min() = a number function that gives the lesser number
+value amongst a set of number
+
+        print (min(12, 13, 21))
+
+5. round() = a number function used to round decimal numbers
+into whole numbers i.e 2.4, 4.634, etc.
+
+    print (round(3.5))
+
+6. bin() = function converts a number into its binary string
