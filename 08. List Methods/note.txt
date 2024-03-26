@@ -1,0 +1,61 @@
+1. extend() = function isused to link multiple lists 
+together and print to the console.
+
+        list1 = list((1,2,3, 4, 5))
+        ist_fruits = ['apples', 'banana', 'mango']
+
+    list1.extend(list_fruits)
+    print(list1)
+
+2. append () = function is suded to added new item to a 
+list 
+
+        list_fruits.append('Orange')
+append() only takes in one argument.
+
+3. insert() = funtion used to insert value in betwent 
+other values or items in a list. it takes in the value
+and the location it should be inserted into.
+
+4. remove() = function used to remove items from a list.
+
+    list_fruits.remove('Orange')
+
+5. clear() = function used in clearing up list 
+making the list empty.
+    list1.clear()
+
+6. index() = function used seraching through a list for 
+index number of a given item or value.
+
+    print(list_fruits.index('mango'))
+
+7. count() = function to determine how many times an
+item appeared in a list
+
+    print (list_fruits.count("mango"))
+
+8. sort() = function used sort a number items in ascending
+order in a list.
+
+    list1.sort()
+    print (list1)
+
+9. reserve() = function to print a list from the back.
+
+    list_fruits.reverse()
+    print(list_fruits)
+
+10. copy() = function to duplicate a list
+
+    list3 = list1.copy()
+    print (list3)
+
+11. pop() = this method removes the last item or value
+in a list. 
+
+12. del = this method is used to delete an item using it
+index numbeer
+
+        del list2[0]
+
