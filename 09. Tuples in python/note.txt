@@ -1,0 +1,4 @@
+turples in python are used to store multiple item
+in a single variable.
+
+turbles allows various datatype. i.e (string, boolean numbers) etc
