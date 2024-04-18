@@ -1,0 +1,8 @@
+if statement is a condiotional statement.
+
+syntax:
+        # if condition:
+    # Expression
+
+        if a > b:
+    print(a , "is greater than ", b)
