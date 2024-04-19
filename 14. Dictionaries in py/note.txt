@@ -1,0 +1,35 @@
+dictionaries: are used to store data values.
+-it stores data in pair of keys and values.
+-it is also a data type.
+-they are changeable and able to be modified after 
+ assigning and configuring.
+-they dont allow duplicate unlike lists and turples.
+-it cannot have two keys with the same values.
+-it can have two values with the same key.
+-it can accept different datatype i.e int, string, boo, ect
+- a list can also accept list.
+    
+    SYNTAX 
+    name_of_Dictionary = {
+        'Key': "Value",
+        'Key': 'value',
+        'Key': "Value",
+        'Key': 'value',
+    }
+
+    my_dict = {
+    'name': "Ola",
+    'Nationality': "Nigerian",
+    'Qualification': "Bsc",
+    'age': 25
+}
+
+-Searching through a dictionary with the key to get 
+    the value assign to such key
+
+    print(my_dict['name'])
+print(my_dict['Nationality'])
+print(my_dict['Qualification'])
+
+
+
