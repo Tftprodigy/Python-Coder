@@ -1,3 +1,6 @@
 while loop: loops through a block of code at a certain
 condition been met.
+-will execute a block of code while some condition remamin
+ true.
+ 
                                    

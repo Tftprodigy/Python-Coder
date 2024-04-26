@@ -2,4 +2,7 @@ for loop is used for iterating over a sequence.
 -this sequence can be a list, turple, string, range of 
  numbers
 
+
 -break keyword is used to break out of iterationg in a loop.
+
+-execute a block of code a fixed number of times.
