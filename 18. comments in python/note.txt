@@ -1,0 +1,6 @@
+comments is used to prevent line(s) of code to run 
+with the origainal code.
+- its is also use to explain code better and makes it
+ more readable.
+ ''' - is also used to comment out a block of code.
+ 

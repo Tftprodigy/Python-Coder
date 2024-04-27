@@ -1,0 +1,4 @@
+Nested loop = a loops thats within another loop(outer, inner)
+    syntax =
+                OUTER LOOP:
+                    INNER LOOP:
