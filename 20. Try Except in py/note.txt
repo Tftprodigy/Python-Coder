@@ -1,0 +1,11 @@
+Try except - mostly prevent an error. purporly known as 
+ try and catch on javascript.
+- in python, Try & except are used to ask a code to try to
+  run a certain code while the cxcept block, throws a 
+  possible error incase something goes wrong in the execut
+  ion of the code inthe try block.
+
+- it helps the program to keep running instead of it being
+ stopped due to the encountered error.
+
+
