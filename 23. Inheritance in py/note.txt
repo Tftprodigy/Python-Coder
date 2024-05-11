@@ -1,0 +1,2 @@
+inheritance - is taking from an existing class and getting
+    some or all the methods and objects in there.
