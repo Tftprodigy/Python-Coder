@@ -1,0 +1,16 @@
+- classes is a feature in python
+- classses is a contructor of objects
+
+example of class in action
+    class myClass:
+    x = 5
+
+- x is an object under the class "myClass()"
+
+
+#- Innit function - Allows us to initialize different  
+   values in our class
+
+#- pass keyword is used to bypass an error in a class
+        class person():
+            pass

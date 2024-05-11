@@ -1,0 +1,9 @@
+reading files
+
+syntax: open ('file name.extension', 'r or w')
+
+where:
+r = read this file
+w = write in this file OR edit file.
+r+ = read and also write
+a = append to the file.
