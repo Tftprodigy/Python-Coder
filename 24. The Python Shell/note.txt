@@ -1,0 +1,6 @@
+python interpreter or python shell - is an apllication
+thats is automatically installed whenever python is instaalled 
+on a pc.
+
+IDLE - search IDLE on the windows to access it.
+- it is used to quick run and test python codes.
