@@ -1,0 +1,7 @@
+modules - lets you get functions, class, everything
+     present in another file, it allow you to impliment
+     those functions in your own file or project.
+
+    -modules are not just on local machines, they're hosted online.
+    
+    
