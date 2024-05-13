@@ -1,0 +1,6 @@
+Pip- is used for installing external modules from the web to
+    local pc.
+
+- sites like PYPI have a alot of Pip dependecy
+- installing them is pretty easy, jsut copy the command 
+ and run in terminal
